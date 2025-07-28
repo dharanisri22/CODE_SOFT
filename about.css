@@ -1,0 +1,38 @@
+.about-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+  color: #333;
+  text-align: left;
+}
+
+.about-section h2,
+.about-section h3 {
+  color: #2c3e50;
+}
+
+.about-section p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.about-section ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.about-section ul li {
+  padding: 8px 0;
+  font-size: 16px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #2980b9;
+}
